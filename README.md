@@ -9,13 +9,13 @@ This project centers around a customizable rule-based system, allowing users to 
 - Comprehensive Error Management: The system includes detailed error handling for a smooth user experience.
 
 # Table of Contents
-- [Technologies Used](#Technologies Used)
-- [Getting Started](#Getting Started)
-- [Setting up the Backend](#Setting up the Backend)
-- [Setting up the Frontend](#Setting up the Frontend)
-- [Usage Instructions](#Usage Instructions)
-- [API Overview](#API Overview)
-- [License](#License]
+- [Technologies Used](#technologies-used)
+- [Getting Started](#getting-started)
+- [Setting up the Backend Setup](#setting-up-the-backend-setup)
+- [Setting up the Frontend Setup](#setting-up-the-frontend-setup)
+- [Usage Instructions](#usage-instructions)
+- [API Endpoints](#api-endpoints)
+- [License](#license)
 
 # Technologies Used
 - Backend: Flask, Flask-CORS, pymongo
