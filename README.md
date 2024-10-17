@@ -12,10 +12,10 @@ This project centers around a customizable rule-based system, allowing users to 
 - [Technologies Used](#Technologies Used)
 - [Getting Started](#Getting Started)
 - [Setting up the Backend](#Setting up the Backend)
--[Setting up the Frontend](#Setting up the Frontend)
--[Usage Instructions](#Usage Instructions)
--[API Overview](#API Overview)
--[License](#License]
+- [Setting up the Frontend](#Setting up the Frontend)
+- [Usage Instructions](#Usage Instructions)
+- [API Overview](#API Overview)
+- [License](#License]
 
 # Technologies Used
 - Backend: Flask, Flask-CORS, pymongo
